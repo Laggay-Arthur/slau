@@ -1,0 +1,20 @@
+E:\Загрузки из Интернета\решения\Slau\Slau\bin\Debug\Slau.exe.config
+E:\Загрузки из Интернета\решения\Slau\Slau\bin\Debug\Slau.exe
+E:\Загрузки из Интернета\решения\Slau\Slau\bin\Debug\Slau.pdb
+E:\Загрузки из Интернета\решения\Slau\Slau\obj\Debug\Slau.csprojResolveAssemblyReference.cache
+E:\Загрузки из Интернета\решения\Slau\Slau\obj\Debug\Slau.Form1.resources
+E:\Загрузки из Интернета\решения\Slau\Slau\obj\Debug\Slau.Properties.Resources.resources
+E:\Загрузки из Интернета\решения\Slau\Slau\obj\Debug\Slau.csproj.GenerateResource.cache
+E:\Загрузки из Интернета\решения\Slau\Slau\obj\Debug\Slau.csproj.CoreCompileInputs.cache
+E:\Загрузки из Интернета\решения\Slau\Slau\obj\Debug\Slau.exe
+E:\Загрузки из Интернета\решения\Slau\Slau\obj\Debug\Slau.pdb
+C:\Users\Артур\Desktop\Slau (1)\Slau\bin\Debug\Slau.exe.config
+C:\Users\Артур\Desktop\Slau (1)\Slau\bin\Debug\Slau.exe
+C:\Users\Артур\Desktop\Slau (1)\Slau\bin\Debug\Slau.pdb
+C:\Users\Артур\Desktop\Slau (1)\Slau\obj\Debug\Slau.csprojResolveAssemblyReference.cache
+C:\Users\Артур\Desktop\Slau (1)\Slau\obj\Debug\Slau.Form1.resources
+C:\Users\Артур\Desktop\Slau (1)\Slau\obj\Debug\Slau.Properties.Resources.resources
+C:\Users\Артур\Desktop\Slau (1)\Slau\obj\Debug\Slau.csproj.GenerateResource.cache
+C:\Users\Артур\Desktop\Slau (1)\Slau\obj\Debug\Slau.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\Slau (1)\Slau\obj\Debug\Slau.exe
+C:\Users\Артур\Desktop\Slau (1)\Slau\obj\Debug\Slau.pdb
